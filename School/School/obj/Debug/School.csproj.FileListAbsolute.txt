@@ -1,0 +1,2 @@
+c:\users\ivan\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe.config
+E:\Dropbox\VS C# projects\CSharp OOP\School\School\bin\Debug\School.exe.config
